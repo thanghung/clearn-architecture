@@ -1,15 +1,17 @@
 name: CI Pipeline
+
 on:
   push:
     branches:
-     - main
+      - main
 
 env:
-  BUILD_PROJECT: "./src/CleanArchitecture/CleanArchitecture.sln"
-  TEST_PROJECT: "./src/CleanArchitecture.Test/CleanArchitecture.Test.csproj"
+  BUILD_PROJECT: ./src/CleanArchitecture/CleanArchitecture.sln
+  TEST_PROJECT: ./src/CleanArchitecture.Test/CleanArchitecture.Test.csproj
+  DOCKER_IMAGE_NAME: clean-arch-api
 
 jobs:
-  build-and-test:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,14 +23,25 @@ jobs:
       with:
         dotnet-version: 8.0.x
 
+    - name: 📦 Cache NuGet packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.nuget/packages
+        key: ${{ runner.os }}-nuget-${{ hashFiles('**/*.csproj') }}
+        restore-keys: |
+          ${{ runner.os }}-nuget-
+
     - name: 📦 Restore dependencies
       run: dotnet restore ${{ env.BUILD_PROJECT }}
 
     - name: 🧱 Build solution
       run: dotnet build ${{ env.BUILD_PROJECT }} --no-restore --configuration Release
-    
-    - name: 🧱 Public solution
-      run: dotnet piblic ${{ env.BUILD_PROJECT }} --no-build --configuration Release
+
+    - name: ✅ Run Unit Tests
+      run: dotnet test ${{ env.TEST_PROJECT }} --no-build --configuration Release --verbosity normal
+
+    - name: 🚀 Publish solution
+      run: dotnet publish ${{ env.BUILD_PROJECT }} --no-build --configuration Release -o ./publish
 
     - name: 🐳 Set up Docker Buildx
       uses: docker/setup-buildx-action@v3
@@ -45,7 +58,6 @@ jobs:
         context: ./src/CleanArchitecture.API
         file: ./src/CleanArchitecture.API/Dockerfile
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/clean-arch-api:latest
-
-    - name: ✅ Run Unit Tests
-      run: dotnet test ${{ env.TEST_PROJECT }} --no-build --verbosity normal
+        tags: |
+          ${{ secrets.DOCKER_USERNAME }}/${{ env.DOCKER_IMAGE_NAME }}:latest
+          ${{ secrets.DOCKER_USERNAME }}/${{ env.DOCKER_IMAGE_NAME }}:${{ github.sha }}
