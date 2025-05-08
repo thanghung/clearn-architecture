@@ -55,8 +55,8 @@ jobs:
     - name: 🏗️ Build and Push Docker image
       uses: docker/build-push-action@v5
       with:
-        context: ./src/CleanArchitecture
-        file: ./src/CleanArchitecture/Dockerfile
+        context: ./src
+        file: ./src/Dockerfile
         push: true
         tags: |
           ${{ secrets.DOCKER_USERNAME }}/${{ env.DOCKER_IMAGE_NAME }}:latest
