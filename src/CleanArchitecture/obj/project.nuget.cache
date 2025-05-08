@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJIY/N1FNr0=",
+  "dgSpecHash": "zovA5dlFlzk=",
   "success": true,
-  "projectFilePath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\CleanArchitecture.API.csproj",
+  "projectFilePath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\CleanArchitecture.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HungThangNguyen\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.15\\microsoft.aspnetcore.authentication.jwtbearer.8.0.15.nupkg.sha512",
     "C:\\Users\\HungThangNguyen\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.15\\microsoft.entityframeworkcore.8.0.15.nupkg.sha512",

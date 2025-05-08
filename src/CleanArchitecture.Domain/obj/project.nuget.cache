@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7sTWI2V5jQ=",
+  "dgSpecHash": "ITRcWPlBvL8=",
   "success": true,
-  "projectFilePath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

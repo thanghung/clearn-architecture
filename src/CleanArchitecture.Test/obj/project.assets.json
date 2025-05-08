@@ -2480,11 +2480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+      "projectUniqueName": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
       "projectName": "CleanArchitecture.Test",
-      "projectPath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+      "projectPath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
       "packagesPath": "C:\\Users\\HungThangNguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\obj\\",
+      "outputPath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2506,8 +2506,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\CleanArchitecture.API.csproj": {
-              "projectPath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\CleanArchitecture.API.csproj"
+            "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\CleanArchitecture.API.csproj": {
+              "projectPath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\CleanArchitecture.API.csproj"
             }
           }
         }

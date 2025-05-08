@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBiVgrhjOP8=",
+  "dgSpecHash": "BljfHhyBwMU=",
   "success": true,
-  "projectFilePath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+  "projectFilePath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HungThangNguyen\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\HungThangNguyen\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.15\\microsoft.aspnetcore.authentication.jwtbearer.8.0.15.nupkg.sha512",
