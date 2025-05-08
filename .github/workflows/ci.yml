@@ -7,7 +7,7 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: 🧾 Checkout code
       uses: actions/checkout@v3
@@ -18,7 +18,7 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: 📦 Restore dependencies
-      run: dotnet restore
+      run: dotnet restore CleanArchitecture.sln --configuration Release
 
     - name: 🧱 Build solution
       run: dotnet build --no-restore --configuration Release
