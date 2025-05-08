@@ -1,0 +1,12 @@
+name: dockercompose193036703331997673
+services:
+  cleanarchitecture.test:
+    build:
+      context: D:\MyProject\clearn-architecture\src\CleanArchitecture
+      dockerfile: ../CleanArchitecture.Test/Dockerfile
+    image: cleanarchitecturetest
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose193036703331997673_default

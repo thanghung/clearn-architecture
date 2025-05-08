@@ -1,69 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\",
+  "WorkspaceRootPath": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2611281E-0E63-4D10-9807-5FBD90FC219E}|..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.test\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2611281E-0E63-4D10-9807-5FBD90FC219E}|..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj|d:\\myproject\\clearn-architecture\\src\\cleanarchitecture.test\\cleanarchitecture.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2611281E-0E63-4D10-9807-5FBD90FC219E}|..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.test\\cleanarchitecture.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624D7FCD-66A9-452F-862F-4232E7197E74}|..\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.infrastructure\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624D7FCD-66A9-452F-862F-4232E7197E74}|..\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.infrastructure\\auth\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{624D7FCD-66A9-452F-862F-4232E7197E74}|..\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clearn-architecture\\src\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687D07C1-7CEF-4A5F-BA9E-1D00437ABDBC}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.application\\auth\\dtos\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687D07C1-7CEF-4A5F-BA9E-1D00437ABDBC}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{687D07C1-7CEF-4A5F-BA9E-1D00437ABDBC}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.application\\auth\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clearn-architecture\\src\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{624D7FCD-66A9-452F-862F-4232E7197E74}|..\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C530A20B-37EB-49C2-89D5-0A9B3921FDF1}|..\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C530A20B-37EB-49C2-89D5-0A9B3921FDF1}|..\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.domain\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{687D07C1-7CEF-4A5F-BA9E-1D00437ABDBC}|..\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.application\\auth\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C530A20B-37EB-49C2-89D5-0A9B3921FDF1}|..\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\myproject\\clean-architecture\\src\\cleanarchitecture.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,102 +61,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CleanArchitecture.Test",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
-              "RelativeToolTip": "..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T03:13:38.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthServiceTests.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\Services\\AuthServiceTests.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Test\\Services\\AuthServiceTests.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Test\\Services\\AuthServiceTests.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Test\\Services\\AuthServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:12:07.237Z",
+              "Title": "CleanArchitecture.Test",
+              "DocumentMoniker": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+              "RelativeDocumentMoniker": "..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+              "ToolTip": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+              "RelativeToolTip": "..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T03:41:03.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:08:49.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SecureController.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Controllers\\SecureController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SecureController.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Controllers\\SecureController.cs",
-              "RelativeToolTip": "Controllers\\SecureController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:03:18.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Auth\\DTOs\\RegisterRequest.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\RegisterRequest.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Auth\\DTOs\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:01:30.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:35:49.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:28:19.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\Program.cs",
+              "ToolTip": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,145 +88,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Auth\\JwtProvider.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtProvider.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Auth\\JwtProvider.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:30:29.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
               "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:30:03.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:30:03.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-08T02:57:21.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "IJwtProvider.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
               "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:29:23.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:29:23.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:27:34.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:27:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
+              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:22:28.889Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AuthResponse.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:22:28.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:23:11.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T02:34:58.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:21:23.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:22:06.972Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Auth\\AuthService.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Auth\\AuthService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwEMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:23:11.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T02:34:58.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:21:23.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
-              "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:22:06.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\CleanArchitecture.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs",
               "ToolTip": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "..\\CleanArchitecture.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T02:20:32.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T02:20:32.901Z"
             }
           ]
         }

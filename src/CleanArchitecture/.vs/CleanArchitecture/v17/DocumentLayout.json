@@ -10,10 +10,6 @@
       "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clearn-architecture\\src\\cleanarchitecture\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|d:\\myproject\\clearn-architecture\\src\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC2A4E39-3D0A-4AA6-AFDE-76C74169DB1C}|CleanArchitecture.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -71,7 +67,7 @@
               "RelativeDocumentMoniker": "..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
               "ToolTip": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
               "RelativeToolTip": "..\\CleanArchitecture.Test\\CleanArchitecture.Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-08T03:41:03.535Z",
               "EditorCaption": ""
@@ -91,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Auth\\JwtSettings.cs",
@@ -103,19 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-08T02:57:21.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IJwtProvider.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IJwtProvider.cs",
@@ -127,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
@@ -139,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\AuthResponse.cs",
@@ -151,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\AuthService.cs",
@@ -163,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\MyProject\\clearn-architecture\\src\\CleanArchitecture\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -175,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Interfaces\\IUserRepository.cs",
@@ -187,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Application\\Auth\\DTOs\\LoginRequest.cs",
@@ -199,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\MyProject\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\clean-architecture\\src\\CleanArchitecture.Domain\\Entities\\User.cs",
