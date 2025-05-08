@@ -8,7 +8,7 @@ on:
 env:
   BUILD_PROJECT: ./src/CleanArchitecture/CleanArchitecture.sln
   TEST_PROJECT: ./src/CleanArchitecture.Test/CleanArchitecture.Test.csproj
-  DOCKER_IMAGE_NAME: clean-arch-api
+  DOCKER_IMAGE_NAME: clean-architecture
 
 jobs:
   build-and-deploy:
