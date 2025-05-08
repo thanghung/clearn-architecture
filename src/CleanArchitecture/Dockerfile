@@ -9,15 +9,13 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
-COPY ["CleanArchitecture/CleanArchitecture.API.csproj", "CleanArchitecture/"]
-COPY ["CleanArchitecture.Application/CleanArchitecture.Application.csproj", "CleanArchitecture.Application/"]
 COPY ["CleanArchitecture.Domain/CleanArchitecture.Domain.csproj", "CleanArchitecture.Domain/"]
+COPY ["CleanArchitecture.Application/CleanArchitecture.Application.csproj", "CleanArchitecture.Application/"]
 COPY ["CleanArchitecture.Infrastructure/CleanArchitecture.Infrastructure.csproj", "CleanArchitecture.Infrastructure/"]
-
+COPY ["CleanArchitecture/CleanArchitecture.API.csproj", "CleanArchitecture/"]
 RUN dotnet restore "CleanArchitecture/CleanArchitecture.API.csproj"
 
 COPY . .
-
 WORKDIR "/src/CleanArchitecture"
 RUN dotnet build "CleanArchitecture.API.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
