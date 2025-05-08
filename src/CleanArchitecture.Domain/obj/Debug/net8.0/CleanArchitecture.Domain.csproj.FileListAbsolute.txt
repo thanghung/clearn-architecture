@@ -9,3 +9,15 @@ D:\MyProject\clean-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\Cl
 D:\MyProject\clean-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
 D:\MyProject\clean-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 D:\MyProject\clean-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.deps.json
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\MyProject\clearn-architecture\src\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
