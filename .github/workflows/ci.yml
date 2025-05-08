@@ -28,4 +28,4 @@ jobs:
       run: dotnet build ${{ env.BUILD_PROJECT }} --no-restore --configuration Release
 
     - name: ✅ Run Unit Tests
-      run: dotnet test MyApp.Tests ${{ env.TEST_PROJECT }} --no-build --verbosity normal
+      run: dotnet test ${{ env.TEST_PROJECT }} --no-build --verbosity normal
