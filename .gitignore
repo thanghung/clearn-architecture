@@ -1,1 +1,68 @@
-.vs/*
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## VS Code
+.vscode/
+.history/
+
+## Rider
+.idea/
+
+## ASP.NET Core secrets
+secrets.json
+
+## Logs
+*.log
+
+## Publish folder
+publish/
+wwwroot/dist/
+wwwroot/node_modules/
+
+## npm / Node (if using frontend)
+node_modules/
+dist/
+
+## Environment files
+.env
+.env.*
+
+## Visual Studio cache
+.vs/
+
+## Paket
+.paket/
+paket-files/
+
+## JetBrains Rider
+.idea/
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
