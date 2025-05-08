@@ -16,7 +16,7 @@ COPY ["CleanArchitecture/CleanArchitecture.API.csproj", "CleanArchitecture/"]
 COPY ["CleanArchitecture.Application/CleanArchitecture.Application.csproj", "CleanArchitecture.Application/"]
 COPY ["CleanArchitecture.Domain/CleanArchitecture.Domain.csproj", "CleanArchitecture.Domain/"]
 COPY ["CleanArchitecture.Infrastructure/CleanArchitecture.Infrastructure.csproj", "CleanArchitecture.Infrastructure/"]
-RUN dotnet restore "./CleanArchitecture/CleanArchitecture.API.csproj"
+RUN dotnet restore "./CleanArchitecture/CleanArchitecture.sln"
 COPY . .
 WORKDIR "/src/CleanArchitecture"
 RUN dotnet build "./CleanArchitecture.API.csproj" -c $BUILD_CONFIGURATION -o /app/build
