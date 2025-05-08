@@ -1,0 +1,15 @@
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.dll
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArc.03AFA812.Up2Date
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.dll
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+D:\MyProject\clean-architecture\src\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll
