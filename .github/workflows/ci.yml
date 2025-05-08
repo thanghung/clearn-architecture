@@ -18,7 +18,7 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: 📦 Restore dependencies
-      run: dotnet restore ./src/CleanArchitecture.API/CleanArchitecture.sln
+      run: dotnet restore ./src/CleanArchitecture/CleanArchitecture.sln
 
     - name: 🧱 Build solution
       run: dotnet build --no-restore --configuration Release
