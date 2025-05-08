@@ -4,6 +4,10 @@ on:
     branches:
      - main
 
+env:
+  BUILD_PROJECT: "./src/CleanArchitecture/CleanArchitecture.sln"
+  TEST_PROJECT: "./src/CleanArchitecture.Test/CleanArchitecture.sln"
+
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
@@ -18,10 +22,10 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: 📦 Restore dependencies
-      run: dotnet restore ./src/CleanArchitecture/CleanArchitecture.sln
+      run: dotnet restore ${{ env.BUILD_PROJECT }}
 
     - name: 🧱 Build solution
-      run: dotnet build --no-restore --configuration Release
+      run: dotnet build ${{ env.BUILD_PROJECT }} --no-restore --configuration Release
 
     - name: ✅ Run Unit Tests
-      run: dotnet test MyApp.Tests --no-build --verbosity normal
+      run: dotnet test MyApp.Tests ${{ env.TEST_PROJECT }} --no-build --verbosity normal
